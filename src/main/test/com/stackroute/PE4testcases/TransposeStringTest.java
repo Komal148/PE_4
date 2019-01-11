@@ -1,3 +1,6 @@
+package com.stackroute.PE4testcases;
+
+import com.stackroute.PE4.TransposeString;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
