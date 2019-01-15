@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd998b34-ce9a-4056-b4b7-d31606083f5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountNumOfOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE4/CountNumOfOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OccuranceOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE4/OccuranceOfString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PresenceOfHarry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE4/PresenceOfHarry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE4/ReplaceCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SortWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE4/SortWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TransposeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE4/TransposeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/CountNumOfOccuranceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE4testcases/CountNumOfOccuranceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/OccuranceOfStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE4testcases/OccuranceOfStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/PresenceOfHarryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE4testcases/PresenceOfHarryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/ReplaceCharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE4testcases/ReplaceCharacterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/SortWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE4testcases/SortWordsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/TransposeStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE4testcases/TransposeStringTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/OccuranceOfString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -75,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/TransposeString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -192,8 +180,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="25" />
-    <option name="width" value="650" />
-    <option name="height" value="743" />
+    <option name="width" value="640" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -232,14 +220,6 @@
               <item name="PE4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PE4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PE4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -262,10 +242,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547199625342" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547199812931" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PE3" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -395,7 +375,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -531,31 +510,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/OccuranceOfString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/TransposeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/PresenceOfHarry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/ReplaceCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        <state relative-caret-position="375">
+          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -573,12 +531,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/TransposeString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/ReplaceCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        <state relative-caret-position="180">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/PresenceOfHarry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE4/OccuranceOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
